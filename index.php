@@ -22,7 +22,7 @@ include 'html/header.html';
     <div class="banniere" id="banniere">
         <div class="contenu">
             <h2>Les petits plats dans les grands.</h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae sunt quo suscipit adipisci dicta asperiores deserunt iusto minima accusantium voluptates ad possimus exercitationem, reprehenderit distinctio aperiam libero? Dolorum, debitis quam.</p>
+            <p>Le restaurant d'Arnaud Michant met en avant une cuisine sans artifice, basée sur la qualité et la simplicité des ingrédients locaux. La carte propose une expérience gastronomique authentique en utilisant des produits de Savoie de qualité supérieure pour offrir des plats délicieux et savoureux.</p>
             <a href="carte.php" class="btn1">Notre carte</a>
             <a href="index.php" class="btn2">Reservation</a>    
         </div>
@@ -31,7 +31,7 @@ include 'html/header.html';
         <div class="row">
             <div class="col50">
                <h2 class="titre-texte">Notre histoire</h2>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nam dolorum totam ipsa doloribus ut veniam? Praesentium est tempore quisquam exercitationem quo, voluptates culpa omnis nihil unde. Incidunt, quia! Voluptatum!</p>
+               <p>Arnaud Michant a ouvert un restaurant à Chambéry offrant une expérience gastronomique authentique, avec une cuisine sans artifice. Le restaurant propose une expérience culinaire de haut niveau pour le déjeuner et le dîner. Les plats sont préparés avec des ingrédients frais et de qualité supérieure, et les saveurs sont mises en valeur sans artifice. L'accent est mis sur la qualité et la simplicité de la cuisine, permettant aux saveurs de briller de leur propre éclat. Le restaurant est rapidement devenu populaire auprès des habitants de Chambéry et des visiteurs de passage, grâce à la passion et au savoir-faire d'Arnaud Michant en matière de cuisine.</p>
             </div>
             <div class="col50">
                 <div class="img">
@@ -49,11 +49,11 @@ include 'html/header.html';
             </div>
             <div class="col50">
                 <h2 class="titre-texte">Notre carte</h2>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore quaerat vitae dolores soluta dolorem tempore debitis ipsum autem velit? Repellendus totam beatae sed similique, veniam laudantium dolorum molestias dolores tempora.</p>            
+                <p>Le restaurant d'Arnaud Michant à Chambéry propose une carte mettant en avant des produits locaux de qualité, sélectionnés avec soin pour offrir une expérience culinaire authentique. </p>            
                 <br>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non cum consequuntur ab officia doloribus eaque, aspernatur quo fugiat reprehenderit porro nemo qui, quod perspiciatis fuga. Ipsa quos accusamus sequi adipisci!</p>
+                <p>Les plats proposés à la fois pour le déjeuner et le dîner sont simples, mais délicieux et mettent en valeur les ingrédients locaux. Parmi les entrées, on peut trouver des salades de saison avec des légumes frais et croquants, ainsi que des terrines de gibier faites maison. Les plats principaux comprennent des plats de viande, comme des côtelettes d'agneau locales et des plats de poisson frais, accompagnés de légumes locaux de saison. </p>
                 <br>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non cum consequuntur ab officia doloribus eaque, aspernatur quo fugiat reprehenderit porro nemo qui, quod perspiciatis fuga. Ipsa quos accusamus sequi adipisci!</p>
+                <p>Les desserts sont également préparés avec des ingrédients locaux, avec des fruits frais et des produits laitiers locaux pour créer des desserts simples mais délicieux. En somme, la carte du restaurant d'Arnaud Michant met en avant les produits locaux de qualité pour offrir une expérience culinaire authentique et savoureuse à ses clients.</p>
                 <a href="carte.php" class="btn-carte">Notre carte en details</a>
             </div>
         </div>
@@ -67,12 +67,12 @@ include 'html/header.html';
                 <div>
                     <img title="Menu degustation" src="image/MenuDegustation1.jpg" class="card-img-top">
                     <div class="card-body">
-                    <h5 class="card-title">Menu degustation</h5>
+                    <h5 class="card-title">Menu degustation : 42 euro</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Entrée : </li>
-                        <li class="list-group-item">Plat : </li>
-                        <li class="list-group-item">Dessert : </li>
+                        <li class="list-group-item">Entrée : Soupe au camenbert </li>
+                        <li class="list-group-item">Plat : Fondue moitié-moitié</li>
+                        <li class="list-group-item">Dessert : Mont blanc</li>
                     </ul>
                 </div>
             </div>
@@ -81,12 +81,12 @@ include 'html/header.html';
                 <div>
                     <img title="Menu du chef" src="image/MenuDuChef.png" class="card-img-top">
                     <div class="card-body">
-                    <h5 class="card-title">Menu degustation</h5>
+                    <h5 class="card-title">Menu du chef : 53 euro</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Entrée : </li>
-                        <li class="list-group-item">Plat : </li>
-                        <li class="list-group-item">Dessert : </li>
+                        <li class="list-group-item">Entrée : Raviolo Foie gras </li>
+                        <li class="list-group-item">Plat : Steak de boeuf et son homard</li>
+                        <li class="list-group-item">Dessert : Profiterol revisité</li>
                     </ul></div>
                 </div>
             </div>
@@ -94,12 +94,12 @@ include 'html/header.html';
                 <div>
                     <img title="Menu enfant" src="image/MenuEnfant.jpg" class="card-img-top">
                     <div class="card-body">
-                    <h5 class="card-title">Menu degustation</h5>
+                    <h5 class="card-title">Menu enfant : 20 euro</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Entrée : </li>
-                        <li class="list-group-item">Plat : </li>
-                        <li class="list-group-item">Dessert : </li>
+                        <li class="list-group-item">Entrée : Salade</li>
+                        <li class="list-group-item">Plat : Hamburger Montagnard</li>
+                        <li class="list-group-item">Dessert : Glace</li>
                     </ul></div>
                 </div>
             </div>
@@ -108,7 +108,11 @@ include 'html/header.html';
     <section class="equipe" id="equipe">
         <div class="titre">
             <h2 class="titre-texte">Notre equipe</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab provident et, quia aspernatur cumque dolores error dolorum praesentium! Tempora dolore iure assumenda labore nihil nam. Omnis quidem architecto deserunt exercitationem?</p>
+            <p>Arnaud Michant est le fondateur du restaurant et le chef exécutif. Il apporte une passion pour la cuisine française authentique et les ingrédients locaux de qualité supérieure. Avec une expérience de plus de 20 ans dans l'industrie de la restauration, il a une connaissance approfondie de la cuisine et de la gestion de restaurant.
+
+Théophile Carl, quant à lui, est le chef de cuisine principal. Il possède une vaste expérience en cuisine française et européenne, et apporte une approche innovante à la cuisine en utilisant des techniques modernes et des ingrédients locaux de saison pour créer des plats délicieux et créatifs.
+
+Thomas Ujanas, est le sous-chef de l'équipe, il apporte une expérience diversifiée, ayant travaillé dans des restaurants étoilés Michelin en France et en Europe. Avec une passion pour les ingrédients locaux et une expertise en cuisine française traditionnelle, il travaille aux côtés du chef exécutif pour créer des plats innovants et savoureux.</p>
         </div>
         <div class="contenu">
             <div class="box">

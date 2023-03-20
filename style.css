@@ -43,7 +43,7 @@ header{
 .logo {
     color: #000000;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 3em;
     text-decoration: none;
     margin-top: -7px;
 }
@@ -630,4 +630,47 @@ footer .contact p{
         width: 80%;
     }
 
+}
+
+/* page de reservatio*/
+
+.inscription {
+    display: flex;
+    flex-direction: column;
+    padding-top: 200px;
+    padding-bottom: 100px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+form {
+    padding: 100px 30px 100px 30px;
+    border: 2px solid #000000;
+    margin: 10px;
+    background-color: #392c1e;
+}
+
+form label {
+    color: #b6ac97;
+    font-weight: 300;
+    font-family: 'Lora', serif;
+    font-size: 1.2em;
+}
+
+form .submit{
+    background-color: #906427;
+}
+
+.inscription h2, .connexion h2 {
+    font-size: 5em;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.connexion{
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+    justify-content: space-around;
+    align-items: center;
 }
